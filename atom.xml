@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qzc31.github.io</id>
+    <title>QZC31</title>
+    <updated>2024-03-17T11:50:36.363Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qzc31.github.io"/>
+    <link rel="self" href="https://qzc31.github.io/atom.xml"/>
+    <logo>https://qzc31.github.io/images/avatar.png</logo>
+    <icon>https://qzc31.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, QZC31</rights>
+    <entry>
+        <title type="html"><![CDATA[2024春课程笔记共享]]></title>
+        <id>https://qzc31.github.io/post/notes_2024_s/</id>
+        <link href="https://qzc31.github.io/post/notes_2024_s/">
+        </link>
+        <updated>2024-03-15T05:55:31.000Z</updated>
+        <content type="html"><![CDATA[<p>本项目由2字班dzk同学建立。</p>
+<h2 id="项目主站"><a href="https://cloud.tsinghua.edu.cn/d/501ed91d710d4a40a19b/">项目主站</a></h2>
+<h3 id="目录">目录</h3>
+<p>（以课程名作为字符串的字典序排列，其中汉字以拼音的字典序比较）</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">课程名</th>
+<th style="text-align:center">授课老师</th>
+<th style="text-align:center">授课时间（x 代表 3 课时）</th>
+<th style="text-align:center">笔记记录者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">代数与数论专题 (2)（p 进 Hodge 理论）</td>
+<td style="text-align:center">刁晗生</td>
+<td style="text-align:center">3-2x</td>
+<td style="text-align:center">郝宇衡</td>
+</tr>
+<tr>
+<td style="text-align:center">范畴学</td>
+<td style="text-align:center">郑浩</td>
+<td style="text-align:center">2-2x</td>
+<td style="text-align:center">董子楷</td>
+</tr>
+<tr>
+<td style="text-align:center">复分析</td>
+<td style="text-align:center">肖建</td>
+<td style="text-align:center">2-2、4-1</td>
+<td style="text-align:center">柏竣文</td>
+</tr>
+<tr>
+<td style="text-align:center">解析数论</td>
+<td style="text-align:center">胡悦科</td>
+<td style="text-align:center">1-3x</td>
+<td style="text-align:center">柏竣文、董子楷</td>
+</tr>
+<tr>
+<td style="text-align:center">李群与李代数</td>
+<td style="text-align:center">郑志伟</td>
+<td style="text-align:center">3-6、5-4</td>
+<td style="text-align:center">董子楷</td>
+</tr>
+<tr>
+<td style="text-align:center">偏屈层</td>
+<td style="text-align:center">张鼎新</td>
+<td style="text-align:center">2-2x</td>
+<td style="text-align:center">陶立宇</td>
+</tr>
+<tr>
+<td style="text-align:center">现代密码学</td>
+<td style="text-align:center">丁津泰</td>
+<td style="text-align:center">3-5</td>
+<td style="text-align:center">周康韫</td>
+</tr>
+</tbody>
+</table>
+<h3 id="杂项">杂项</h3>
+<p>（以文件名字典序排列）</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">文件名</th>
+<th style="text-align:center">说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">dg_main.pdf</td>
+<td style="text-align:center">上学期的完成度只有 90% 但是可堪一用的微分几何笔记</td>
+</tr>
+<tr>
+<td style="text-align:center">NoteBuildScript.java</td>
+<td style="text-align:center">一个非常 naive 的笔记版本管理的小脚本，使用方法在该文件的开头的一段注释中有写</td>
+</tr>
+<tr>
+<td style="text-align:center">README.md</td>
+<td style="text-align:center">本说明文档</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学史开源项目]]></title>
+        <id>https://qzc31.github.io/post/his/</id>
+        <link href="https://qzc31.github.io/post/his/">
+        </link>
+        <updated>2024-03-14T07:57:48.000Z</updated>
+        <content type="html"><![CDATA[<p>本项目由whd同学提议建立，旨在共享同学们的数学史论文，使同学们对其他同学感兴趣的领域有初步了解。</p>
+<h2 id="项目主站"><a href="https://cloud.tsinghua.edu.cn/d/d3d57eb6aeab4d768c51/">项目主站</a></h2>
+<p>本项目依托清华云盘，所有论文文件托管于清华云盘，同时在本站会有文章列表和简介以及论文的备份文件。</p>
+<h2 id="文章列表">文章列表</h2>
+<table>
+    <tr>
+        <th>标题</th><th>方向</th><th>姓名</th>
+    </tr>
+    <tr>
+        <td align="middle">History of Reciprocity Laws</td><td>代数数论</td><td>王皓东</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">对类域论的简要介绍</td>
+    </tr>
+    <tr>
+        <td align="middle">History of Topos Theory</td><td>代数学</td><td>陈潇扬</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">介绍了层论和意象理论历史以及一些应用</td>
+    </tr>
+    <tr>
+        <td align="middle">A Brief History of Probability Theory</td><td>概率论</td><td>鲜思成</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">从17世纪的古典概率论到20世纪的基于测度论的公理化概率论的发展中的各种概念的提出与完善，以及大数定律、中心极限定理两个主要定理的发展。含有一些的严谨数学证明和人物历史。</td>
+    </tr>
+    <tr>
+        <td align="middle">严格化潮流下的积分理论发展</td><td>分析学</td><td>杨睿骐</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">脱胎于归斌老师的分析-1课程，介绍了历史上数学家们对积分理论的发展和完善</td>
+    </tr>
+    <tr>
+        <td align="middle">复分析的历史</td><td>复分析</td><td>董皓旸</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">介绍了复分析最初建立时的三个不同的角度</td>
+    </tr>
+    <tr>
+        <td align="middle">解析数论：我们和素数的故事</td><td>解析数论</td><td>叶奕苓</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">介绍了解析数论发展历史上人们对素数分布问题的研究</td>
+    </tr>
+    <tr>
+        <td align="middle">稳定同伦论</td><td>同伦论</td><td>李子溪</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">介绍了稳定同伦论从古典内容向现代观点的转变</td>
+    </tr>
+    <tr>
+        <td align="middle">Hilbert's seventeenth problem: Sums of squares</td><td>数理逻辑</td><td>田子昂</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">实系数半正定有理函数的平方和表示问题，具体包括E.Artin的形式实域理论、A.Robinson的代数模型论证明以及定量平方和的Pfister form理论</td>
+    </tr>
+    <tr>
+        <td align="middle">Fourier分析的历史</td><td>Fourier分析</td><td>柏竣文</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">介绍了经典Fourier分析发展的历史动机、技术工具、重要结论和应用</td>
+    </tr>
+    <tr>
+        <td align="middle">A litte about Ellipse–Integral, Function, Curve and Modular Form</td><td>椭圆曲线</td><td>靳柏舟</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">
+            A little basic things about the theory of ellipse from the era of Ramanujan to Wiles. Including Elliptic Integral, Elliptic Function, Elliptic Curves and a little about Modular forms.
+        </td>
+    </tr>
+    <tr>
+        <td align="middle">超越数论和希尔伯特的第七问</td><td>超越数论</td><td>王荣燊</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="middle">主要回顾了证明一些重要常数超越性的历史，并回顾了Thue-Siegel-Roth定理相关的历史，还讨论了一些特殊函数取值的超越性</td>
+    </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index Page]]></title>
+        <id>https://qzc31.github.io/post/index/</id>
+        <link href="https://qzc31.github.io/post/index/">
+        </link>
+        <updated>2023-07-27T10:02:37.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="数学史开源项目">数学史开源项目</h2>
+<p><a href="https://qzc31.github.io/post/his">Link</a></p>
+<h2 id="课程笔记共享">课程笔记共享</h2>
+<p><a href="https://qzc31.github.io/post/notes_2024_s">Link</a></p>
+]]></content>
+    </entry>
+</feed>
